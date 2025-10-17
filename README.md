@@ -56,5 +56,4 @@ This calculator helps students easily compute their **semester GPA** for each su
 
 ### 🧩 1. Clone this Repository
 ```bash
-git clone https://github.com/your-username/GPA-Calculator.git
-cd GPA-Calculator
+https://cgpa-and-gpa-calculator-kst5zrlontevnmzi9aexsl.streamlit.app/
